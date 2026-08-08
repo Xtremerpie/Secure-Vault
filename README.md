@@ -1,5 +1,5 @@
-# SecureVault V2.1
-
+# SecureVault
+v2
 A vault that behaves like a normal folder — double-click to open, edit in
 whatever app you normally use, drag-and-drop files in and around, and
 everything is re-encrypted automatically. Includes recovery keys, version
@@ -163,3 +163,10 @@ and now supports account recovery without weakening that. It does **not**
 protect against a keylogger, a compromised OS, or a weak/guessable
 password. Treat it as solid protection against "someone finds or steals
 the vault folder," not against a compromised computer.
+
+## Creater and More info
+
+- Creater - Xtremerpie
+- Mrimary goal - To safe file and folders froomo anyone useing my PC.
+
+# If anyone want direct project .exe file contect me on Discord
